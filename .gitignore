@@ -1,0 +1,11 @@
+node_modules/
+out/
+*.log
+.DS_Store
+analysis/click_*.wav
+
+# BGM 与配图不入库（音乐授权 + 用户自填）；README 保留
+public/bgm/*
+!public/bgm/README.md
+public/images/*
+!public/images/README.md

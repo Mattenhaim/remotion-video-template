@@ -1,0 +1,9 @@
+name,url,category,subcategory,description,source_platform,stars,last_updated,license,language_or_stack,free_or_paid,remotion_fit,notes
+Text Scramble Effect (soulwire),https://codepen.io/soulwire/pen/mErPrZ,文字动效,乱码解码,未知（页面为人机验证拦截页，未见到真实内容）,CodePen,未知,未知,未知,JavaScript,未知,仅借鉴思路,"未通过核验：页面被 Cloudflare 人机验证拦截（两次访问均 Only ""Just a moment...""），无法核验页面内容；浏览器人工访问后可复核"
+Clippy (clip-path maker),https://bennettfeely.com/clippy/,转场,遮罩形状工具,未知,其他(个人站),未知,未知,未知,未知,未知,直接可用,未通过核验：error: ERR_TLS_CERT_ALTNAME_INVALID；链接当时不可达，复核通过后可入有效库
+LottieFiles,https://lottiefiles.com/,动画库与预设,Lottie 资源库,未知（页面为人机验证拦截页，未见到真实内容）,官网,未知,未知,未知,Lottie (JSON),未知,直接可用,"未通过核验：页面被 Cloudflare 人机验证拦截（两次访问均 Only ""Just a moment...""），无法核验页面内容"
+LottieFiles Free Animations,https://lottiefiles.com/free-animations,动画库与预设,Lottie 资源库,未知（页面为人机验证拦截页，未见到真实内容）,官网,未知,未知,未知,Lottie (JSON),未知,直接可用,"未通过核验：页面被 Cloudflare 人机验证拦截（两次访问均 Only ""Just a moment...""），无法核验页面内容"
+View Transitions (Chrome Developers),https://developer.chrome.com/docs/web-platform/view-transitions,转场,浏览器原生转场,未知,其他(Chrome Developers 官网),未知,未知,未知,未知,未知,仅借鉴思路,未通过核验：error: UND_ERR_CONNECT_TIMEOUT；链接当时不可达，复核通过后可入有效库
+Tunebat,https://tunebat.com/,缓动与节奏,BPM 查询工具,未知,其他(Tunebat 官网),未知,未知,未知,未知,未知,直接可用,未通过核验：error: UND_ERR_CONNECT_TIMEOUT；链接当时不可达，复核通过后可入有效库
+Remotion 3D Text template,https://github.com/remotion-dev/3d-text,文字动效,3D 文字,未知（README 为模板样板文、API 无简介、画廊无条目）,GitHub,10,2024-02-26,未知,TypeScript,免费增值（Remotion LICENSE.md 口径）,直接可用,未通过核验：描述信息不全，待补齐后入有效库
+GL Transitions (Remotion 官方示例),https://github.com/remotion-dev/gl-transitions,转场,GLSL 转场集,未知（README 为模板样板文、API 无简介、画廊无条目）,GitHub,27,2024-05-03,未知,TypeScript,未知,直接可用,未通过核验：描述信息不全，待补齐后入有效库
